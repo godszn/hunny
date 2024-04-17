@@ -93,3 +93,7 @@
     font-family: 'Space Grotesk';
     color:#6C6D71 ;
   }
+
+  .splash-login h1, p , button {
+    font-family: 'Space Grotesk';
+  }
